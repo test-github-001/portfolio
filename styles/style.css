@@ -147,7 +147,7 @@ main .work-case:hover span {
     background-color: #4541b1;
 }
 
-aside {
+nav {
     position: sticky;
     top: 0;
     width: 270px;
@@ -155,7 +155,7 @@ aside {
     background-color: #02204366;
 }
 
-aside div {
+nav div {
     display: block;
     letter-spacing: 3px;
     box-sizing: border-box;
@@ -166,7 +166,7 @@ aside div {
     font-weight: 700; 
 }
 
-aside a {
+nav a {
     display: block;
     box-sizing: border-box;
     text-transform: uppercase;
@@ -195,7 +195,7 @@ footer {
         max-width: 876px;
     }
 
-    aside a {
+    nav a {
         font-size: 18px;
     }
 }
@@ -220,7 +220,7 @@ footer {
         font-size: 18px;
     }
 
-    aside {
+    nav {
         display: none;
     }
 }
